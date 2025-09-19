@@ -22,5 +22,5 @@ jobs:
 
       - name: Run tests
         run: |
-                pytest -v   # <-- verbose output so you see every test
+                pytest -v -s   # <-- verbose output so you see every test
 

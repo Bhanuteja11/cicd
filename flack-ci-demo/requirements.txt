@@ -1,4 +1,3 @@
-install flask and pytest
+flask
+pytest
 
-pip install flask pytest
-pip install flask pytest
